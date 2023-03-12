@@ -1,0 +1,147 @@
+[
+    {
+        "id": 1,
+        "name": "Food & Drinks",
+        "icon": "fast-food",
+        "type": "Expense"
+    },
+    {
+        "id": 2,
+        "name": "Clothes & Accessories",
+        "icon": "shirt",
+        "type": "Expense"
+    },
+    {
+        "id": 3,
+        "name": "Electronics",
+        "icon": "laptop",
+        "type": "Expense"
+    },
+    {
+        "id": 4,
+        "name": "Appliances",
+        "icon": "tv",
+        "type": "Expense"
+
+    },
+    {
+        "id": 5,
+        "name": "Education",
+        "icon": "book",
+        "type": "Expense"
+    },
+    {
+        "id": 6,
+        "name": "Electricity Bill",
+        "icon": "flash",
+        "type": "Expense"
+    },
+    {
+        "id": 7,
+        "name": "Water Bill",
+        "icon": "water",
+        "type": "Expense"
+    },
+    {
+        "id": 8,
+        "name": "Gas Bill",
+        "icon": "flame",
+        "type": "Expense"
+    },
+    {
+        "id": 9,
+        "name": "Internet Bill",
+        "icon": "wifi",
+        "type": "Expense"
+    },
+    {
+        "id": 10,
+        "name": "Phone Bill",
+        "icon": "phone-portrait",
+        "type": "Expense"
+    },
+    {
+        "id": 12,
+        "name": "Rent",
+        "icon": "home",
+        "type": "Expense"
+    },
+    {
+        "id": 13,
+        "name": "Transportation",
+        "icon": "bus",
+        "type": "Expense"
+    },
+    {
+        "id": 14,
+        "name": "Insurance",
+        "icon": "medical",
+        "type": "Expense"
+    },
+    {
+        "id": 15,
+        "name": "Investment",
+        "icon": "wallet",
+        "type": "Expense"
+    },
+    {
+        "id": 16,
+        "name": "Pharmacy",
+        "icon": "medkit",
+        "type": "Expense"
+    },
+    {
+        "id": 17,
+        "name": "Movies",
+        "icon": "videocam",
+        "type": "Expense"
+    },
+    {
+        "id": 18,
+        "name": "Games",
+        "icon": "game-controller",
+        "type": "Expense"
+    },
+    {
+        "id": 19,
+        "name": "Travel",
+        "icon": "airplane",
+        "type": "Expense"
+    },
+    {
+        "id": 20,
+        "name": "Gifts",
+        "icon": "gift",
+        "type": "Expense"
+    },
+    {
+        "id": 21,
+        "name": "Salary",
+        "icon": "wallet",
+        "type": "Income"
+    },
+    {
+        "id": 22,
+        "name": "Selling",
+        "icon": "pricetag",
+        "type": "Income"
+    },
+    {
+        "id": 23,
+        "name": "Gift",
+        "icon": "gift",
+        "type": "Income"
+    },
+    {
+        "id": 24,
+        "name": "Interest",
+        "icon": "bar-chart",
+        "type": "Income"
+    },
+    {
+        "id": 25,
+        "name": "Other Income",
+        "icon": "wallet",
+        "type": "Income"
+    }
+]
